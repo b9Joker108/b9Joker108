@@ -1,6 +1,4 @@
-👋 Hi 
-
-I’m @b9Joker108
+👋 Hi I’m @b9Joker108
 
 👀 I’m interested in Sanskrit, Tibetan, Dharmic Traditions, Bash, Zsh, Semiotics, Linguistics, Runes, divination and Heathenism, amongst other things. I am fascinated by hacker culture. 🌱 
 
@@ -42,4 +40,5 @@ With sincerity
 *Thursday December 21, 2023*
 
 📫 soliton108[at]yahoo[dot]com[dot]au
+
 NB: If purchance I do not respond to email, prospect me through other channels with diligence.
