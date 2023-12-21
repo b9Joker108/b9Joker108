@@ -1,6 +1,6 @@
 👋 Hi I’m @b9Joker108
 
-👀 I’m interested in Sanskrit, Tibetan, Dharmic Traditions, Bash, Zsh, Semiotics, Linguistics, Runes, divination and Heathenism, amongst other things. I am fascinated by hacker culture. 🌱 I have learnt that it is best to learn languages in relation to one another, rather than individually, as it helps to convey the metaphorical extension of complex new concepts.
+👀 I’m interested in Sanskrit, Tibetan, Dharmic Traditions, Bash, Zsh, Semiotics, Linguistics, Runes, oracular divination and Heathenism, amongst other things. I am fascinated by hacker culture. 🌱 I have learnt that it is best to learn languages in relation to one another, rather than individually, as it helps to convey the metaphorical extension of complex new concepts.
 
 I’m currently learning Bash and Zsh scripting in relation to each other on my Android devices. To productively quicken this, I am building an Intranet with Notion, which is my new favorite Android app, though I have come to prefer using the web-app which is a different experience on each browser. In truth, Notion as a learning tool, is a revelation and I endorse it. 
 
