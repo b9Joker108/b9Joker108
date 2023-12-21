@@ -10,7 +10,7 @@ The Amiga computer and operating system were rather curious, as you had to use a
 
 The graphics and visual representation and rendering, particularly the reflections and depth perspective and brilliance of the colour on the Amiga 2000, was just incredible for the time and inspired me greatly. It also inspired my little brother, he became an IT and digital printing professional. Then, the Internet was not yet publically available. 
 
-The digital art application of the Amiga 2000 was powerful and basically, the first non-gaming application I ever used. For the time, it was a purely magestic piece of coding and formative, clearly influencing, the much later and subsequently dominant, Photoshop. The Amiga digital art app came with a number of pre-installed examples of what you could do with the application. The standout, was the Egyptian death-mask of King Tut, which was so vivid and real you felt you could really touch it. 
+The digital art application of the Amiga 2000 was powerful and basically, the first non-gaming application I ever used. For the time, it was a purely magestic piece of coding and formative, clearly influencing, the much later and subsequently dominant, Photoshop. The Amiga digital art app came with a number of pre-installed examples of what you could do with the application. The standout, was the Egyptian death-mask of King Tut, which was so vivid and real you felt you could really touch it and were in the presence of the actual artefact. 
 
 As a young teen, I spent too much money and time at a digital arcade playing Elevator Action, at which I was a gun. To enter the arcade, you went through a doorway that was identical to Doctor Who's Tardus. 💞️ 
 
