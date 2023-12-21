@@ -32,12 +32,14 @@ Many years after wrangling with Pascal, after a prolonged period of homelessness
 
 Whilst studying Computer Science, I was surprised at how much I enjoyed and came to love, Discrete Mathematics, as I had done no higher mathematics at secondary school and was more inclined to the written word. I had to study and work really hard for the distinction I got in Discrete Mathematics, to the detriment of my other subjects. Touchscreen laptops, had just then become emergent.
 
-I am rather excited, as this file will be my first GitHub commit. My coding will not presently be of much assistance or use to anyone, but my procedure writing skill and manual codification and input and editing skills may and product testing may. Hit me up, I have time and I like to support open source projects that develop the community.
+My research methodology is to utilise quite a number of Android Internet browsers, but I have come to recently favour and heaviy lean and depend upon Bing, with its in-built free ChatGPT 4.0 option. I augment this, on occasion, with the free restricted-use PerplexityAI Android app, which is an example of excellence in class. I may soon subsctibe to this app. I was wondering how soon ChatGPT would intersect with computing shell technology, and I am delighted and not at all surprised to affirm that as of the date of this README, I have become aware of ShellGPT, which I here relate with pure delight. I am soon to progress its installation, in both my smartphone and tablet. Quality AI, is a powerful and efficient learning tool, and is also on occasion an erroneous and problematic teacher. It can attest that AI, can and may falsify and faricate information, as it is fudamentally, a creative algorithm. So AI must be engaged with caution, as well as precision.
+
+I am rather excited, as this file will be my first GitHub commit. My coding will not presently be of much assistance or use to anyone, but my procedure writing skill and manual codification and input and editing skills and product testing may. Hit me up, I have time and I like to support open source projects that develop and empower the community.
 
 With sincerity
   
 **b9Joker108**
-*Thursday December 21, 2023*
+*Friday December 22, 2023*
 
 📫 soliton108[at]yahoo[dot]com[dot]au
 
