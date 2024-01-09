@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm b9Joker108 </h1>
-<h3 align="center">👀 I’m interested in Sanskrit, Tibetan, Dharmic Traditions, Bash, Zsh, Semiotics, Linguistics, Runes, oracular divination and Heathenism, amongst other things. I am fascinated by hacker culture, particularly in its specific application to GNU/Linux hand-held Android devices and operating systems and in leveraging the pragmatism and power of the Termux terminal emulator environment.</h3>
+<h3 align="center">👀 I am passionately interested in Sanskrit, Tibetan, Dharmic Traditions, Bash, Zsh, Semiotics, Linguistics, Runes, oracular divination and Heathenism, amongst other things. I am fascinated by hacker culture, particularly in its specific application to GNU/Linux hand-held Android devices and operating systems and within them, in leveraging the pragmatism and power of the Termux terminal emulator environment.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
