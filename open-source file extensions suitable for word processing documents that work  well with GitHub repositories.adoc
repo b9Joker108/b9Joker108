@@ -1,4 +1,4 @@
- # Here are several open-source file extensions suitable for word processing documents that work 
+# Here are several open-source file extensions suitable for word processing documents that work 
 well with GitHub repositories:
 
 **Markdown (.md):**
