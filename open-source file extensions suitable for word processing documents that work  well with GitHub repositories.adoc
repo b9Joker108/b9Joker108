@@ -1,5 +1,5 @@
 # Here are several open-source file extensions suitable for word processing documents 
-that work well with GitHub repositories:
+# that work well with GitHub repositories:
 
 **Markdown (.md):**
     - Simple, plain text format with basic formatting options using simple syntax.
