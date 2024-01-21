@@ -1,29 +1,29 @@
  **Here are several open-source file extensions suitable for word processing documents that work 
 well with GitHub repositories:**
 
-- **Markdown (.md):**
+**Markdown (.md):**
     - Simple, plain text format with basic formatting options using simple syntax.
     - Well-supported by GitHub for preview and rendering.
     - Ideal for lightweight documents, notes, and technical writing.
     - Widely used for README files, documentation, and web content.
 
-- **AsciiDoc (.adoc):**
+**AsciiDoc (.adoc):**
     - More comprehensive formatting capabilities than markdown.
     - Supports tables, images, footnotes, and cross-references.
     - Can be converted to various formats like HTML, PDF, and EPUB.
     - Good choice for longer documents with more complex structures.
 
-- **reStructuredText (.rst):**
+**reStructuredText (.rst):**
     - Similar to AsciiDoc in features and versatility.
     - Often used in Python documentation and technical writing.
     - Known for its readability and clear structure.
 
-- **Textile (.textile):**
+**Textile (.textile):**
     - Another lightweight markup language with approachable syntax.
     - Focuses on natural-looking text formatting.
     - Might be less common in some communities but still a viable option.
 
-- **LaTeX (.tex):**
+**LaTeX (.tex):**
     - Powerful typesetting system for high-quality documents.
     - Steeper learning curve but offers precise control over layout and typography.
     - Excellent for professional-looking publications, academic papers, and books.
