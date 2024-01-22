@@ -4,6 +4,13 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MartinThoma)
 [![](https://views.whatilearened.today/views/github/martinthoma/martinthoma.svg)](http://github.com/martinthoma/martinthoma)
 
+# My implementation 
+
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AntonBeauford)
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-thoma/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MartinThoma)
+
 ### Hi 👋
 
 I'm Martin and I am currently based in Germany working as a Lead Developer / Python Backend Dev.
