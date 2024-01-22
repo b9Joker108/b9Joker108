@@ -17,7 +17,14 @@
 <p align="left">
 <a href="https://hashnode.com/@b9Joker108" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="b9Joker108" height="30" width="40" /></a>
 </p>
+NB: Template Functionality: As the openai-cookbook repository is changed and updated, its changes are automatically rendered on their GitHub hosted website, based in registry.yaml 
 
+https://github.com/b9Joker108/openai-cookbook, I intuited this efficiency, and this is what I wish to implement. 
+
+https://linkedin-github.herokuapp.com/api/render/
+beauford%20a%20stenberg
+
+https://www.linkedin.com/in/beauford-a-stenberg/
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AntonBeauford)
 
 👋 Hi I’m @b9Joker108
