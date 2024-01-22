@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AntonBeauford)
 <a href="https://hashnode.com/@b9Joker108" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="b9Joker108" height="30" width="40" /></a>
 </p>
 
