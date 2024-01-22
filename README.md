@@ -21,7 +21,7 @@ NB: Template Functionality: As the openai-cookbook repository is changed and upd
 
 https://github.com/b9Joker108/openai-cookbook, I intuited this efficiency, and this is what I wish to implement. 
 
-https://www.linkedin-github.herokuapp.com/api/render/beauford%20a%20stenberg
+https://www.linkedin-github.herokuapp.com/api/render/www.linkedin.com/in/beauford%20a%20stenberg%2060140a18
 
 https://www.linkedin.com/in/beauford-a-stenberg/
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AntonBeauford)
