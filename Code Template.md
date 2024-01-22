@@ -41,3 +41,12 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+
+NB: Template Functionality: As the openai-cookbook repository is changed and updated, its changes are automatically rendered on their GitHub hosted website, based in registry.yaml 
+
+https://github.com/b9Joker108/openai-cookbook, I intuited this efficiency, and this is what I wish to implement. 
+
+NB: Template Functionality: As the openai-cookbook repository is changed and updated, its changes are automatically rendered on their GitHub hosted website, based in registry.yaml 
+
+# https://github.com/b9Joker108/openai-cookbook, I intuited this efficiency, and this is what I wish to implement. 
+
