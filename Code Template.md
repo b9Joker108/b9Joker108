@@ -44,9 +44,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 NB: Template Functionality: As the openai-cookbook repository is changed and updated, its changes are automatically rendered on their GitHub hosted website, based in registry.yaml 
 
-https://github.com/b9Joker108/openai-cookbook, I intuited this efficiency, and this is what I wish to implement. 
-
-NB: Template Functionality: As the openai-cookbook repository is changed and updated, its changes are automatically rendered on their GitHub hosted website, based in registry.yaml 
+# NB: Template Functionality: As the openai-cookbook repository is changed and updated, its changes are automatically rendered on their GitHub hosted website, based in registry.yaml 
 
 # https://github.com/b9Joker108/openai-cookbook, I intuited this efficiency, and this is what I wish to implement. 
 
