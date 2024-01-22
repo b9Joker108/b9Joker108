@@ -17,7 +17,8 @@
 <p align="left">
 <a href="https://hashnode.com/@b9Joker108" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="b9Joker108" height="30" width="40" /></a>
 </p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="beauford-a-stenberg" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/beauford-a-stenberg?trk=profile-badge">Beauford A. Stenberg</a></div>
+              
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AntonBeauford)
 
 👋 Hi I’m @b9Joker108
