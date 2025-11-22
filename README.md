@@ -2,14 +2,14 @@
 <div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ वाग्देव्यै नमः ༽ ༻</div>
 
 <h1 align="center">Hi 👋, I'm b9Joker108 </h1>
-<h2 align="Center">As of Tuesday January 9, 2024, this profile is actively under development and is a living document. So, it is to be understood as a rudimentary draft. </h2>
+<h2 align="Center">As of Tuesday January 9, 2024, this profile is actively under development and is a living document. So, it is to be understood as a evergreen rudimentary draft into perpetuity. </h2>
 
 ### Thanks for visiting :heart:
 ![Visitor Count](https://profile-counter.glitch.me/b9Joker108/count.svg)
 
 [:scroll: Writer](https://amazon.com/author/kirkbride) - :books: Researcher - :wrench: Developer
 
-<h3 align="center">👀 I am passionately interested in Sanskrit, Tibetan, Dharmic Traditions, Bash, Zsh, Semiotics, Linguistics, Runes, oracular divination and Heathenism, amongst other things. I am fascinated by hacker culture, particularly in its specific application to GNU/Linux hand-held Android devices and operating systems and within them, in leveraging the pragmatism and power of the Termux terminal emulator environment.</h3>
+<h3 align="center">👀 I am passionately interested in Sanskrit, Tibetan, Dharmic Traditions, Bash, Zsh, Python, Javascript, Semiotics, Linguistics, Runes, oracular divination and Heathenism, amongst many other things. I am fascinated by maker and hacker culture, particularly in its specific application to GNU/Linux hand-held Android devices; sovereign devices, architecture, technology, data, operating systems and governance; and within them, in leveraging the pragmatism and power of the Termux terminal emulator environment. I have written an extensive and truly vast polished rudimentary draft called: 'A Fable of the Scriptkiddie Scriptoria' to support technical sovereighnt, with immediacy, in the newly socially, economically and technology included from the circa one third of the human population still excluded, disenframchised andvmarginalised. This, needsmust be sundered.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -127,18 +127,20 @@ One of the most distinctive features of Galaxy World was its entrance, which was
 
 Galaxy World was a popular destination for gamers, families, tourists, and celebrities, and it hosted many events and tournaments over the years. It was also a part of the Australian gaming culture and history, and it influenced many game developers and enthusiasts. However, due to the rise of online gaming, home consoles, and mobile devices, the arcade industry declined in the 2000s and 2010s, and Galaxy World could not compete with the changing market and consumer preferences. It closed its doors in 2012, and the building was demolished in 2013 to make way for a new development.
 
+Sri Sri Sri
 Hari Aum Tat Sat
-
 Svaha A
 
-Sri Nagahari-dasa
-
 With sincerity
-  
-**b9Joker108**
-*Friday December 22, 2023*
 
-📫 soliton108[at]yahoo[dot]com[dot]au
+Sri Nagahari-dasa
+Beauford A. Stenberg
+Benign Hummingbird Hovering
+
+**b9Joker108**, *et al.*
+*Friday, December 22, 2023; rev. Saturday, November 22, 2025*
+
+📫 soliton108\[at]yahoo\[dot]com\[dot]au
 
 NB: If purchance I do not respond to email, prospect me through other channels with diligence.
 
