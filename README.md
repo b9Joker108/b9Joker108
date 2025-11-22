@@ -2,7 +2,7 @@
 <div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ वाग्देव्यै नमः ༽ ༻</div>
 
 <h1 align="center">Hi 👋, I'm b9Joker108 </h1>
-<h2 align="Center">As of Tuesday January 9, 2024, this profile is actively under development and is a living document. So, it is to be understood as a evergreen rudimentary draft into perpetuity. </h2>
+<h2 align="Center">As of Tuesday January 9, 2024, this profile is actively under development and is a living document. So, it is to be understood as an evergreen rudimentary draft into perpetuity. </h2>
 
 ### Thanks for visiting :heart:
 ![Visitor Count](https://profile-counter.glitch.me/b9Joker108/count.svg)
